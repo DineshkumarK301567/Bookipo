@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "booking_calendar": "^1.0.40",
+    "simple-peer": "^9.11.1"
+  }
+}
